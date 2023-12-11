@@ -1,0 +1,11 @@
+C:\Users\eobu\Documents\Dev\C#\Scrape\bin\Release\net8.0\Scrape.deps.json
+C:\Users\eobu\Documents\Dev\C#\Scrape\bin\Release\net8.0\Scrape.dll
+C:\Users\eobu\Documents\Dev\C#\Scrape\bin\Release\net8.0\Scrape.pdb
+C:\Users\eobu\Documents\Dev\C#\Scrape\obj\Release\net8.0\Scrape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eobu\Documents\Dev\C#\Scrape\obj\Release\net8.0\Scrape.AssemblyInfoInputs.cache
+C:\Users\eobu\Documents\Dev\C#\Scrape\obj\Release\net8.0\Scrape.AssemblyInfo.cs
+C:\Users\eobu\Documents\Dev\C#\Scrape\obj\Release\net8.0\Scrape.csproj.CoreCompileInputs.cache
+C:\Users\eobu\Documents\Dev\C#\Scrape\obj\Release\net8.0\Scrape.dll
+C:\Users\eobu\Documents\Dev\C#\Scrape\obj\Release\net8.0\refint\Scrape.dll
+C:\Users\eobu\Documents\Dev\C#\Scrape\obj\Release\net8.0\Scrape.pdb
+C:\Users\eobu\Documents\Dev\C#\Scrape\obj\Release\net8.0\ref\Scrape.dll
